@@ -50,7 +50,7 @@ export default function RecruitmentMenu() {
             <div className={styles.applyLinkContainer}>
                 <Button 
                     className={styles.applyLink} 
-                    href="https://forms.gle/rgyAy9JMLTFPaHDe6 "
+                    href="https://forms.gle/TyvKxe38qizpuy2u8"
                 >
                     Apply Here
                 </Button>
@@ -59,7 +59,7 @@ export default function RecruitmentMenu() {
                 </Alert>
             </div>
             <div className={styles.menuDiv}>
-                {/* <div className={styles.menuCol}>
+                { <div className={styles.menuCol}>
                     <h3 className={styles.menuColTitle}>Research</h3>
                     <div className={styles.menuColMain}>
                         <div className={styles.menuColSide}></div>
@@ -74,7 +74,7 @@ export default function RecruitmentMenu() {
                             />
                         </div>
                     </div>
-                </div> */}
+                </div> }
                 <div className={styles.menuCol}>
                     <h3 className={styles.menuColTitle}>Society</h3>
                     <div className={styles.menuColMain}>
